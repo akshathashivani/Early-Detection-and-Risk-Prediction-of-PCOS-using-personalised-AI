@@ -47,6 +47,8 @@ Home: Overview of PCOS and project objectives
 PCOS Risk Prediction: Input patient data and get predictions with explanations
 Screenshots
 Home Page
+
+
 <img width="860" height="509" alt="Screenshot 2026-11-07 at 5 06 45 PM" src="https://github.com/user-attachments/assets/ddb27fc7-e140-4949-a91e-e5a54f743b94" />
 
 
@@ -71,6 +73,8 @@ Explainability Results
 ├── PCOS_data_without_infertility.csv  # Training dataset
 ├── Real_Time_Testing.csv  # Testing dataset
 └── pcos_env/              # Virtual environment
+
+
 📈 Methodology
 The system follows a comprehensive approach:
 
@@ -93,9 +97,9 @@ This project is for educational and research purposes.
 👥 Authors
 Developed as part of 7th Semester Final Implementation by:
 
-C Akshatha Shivani
-Kruthika
-Sarojini Vaishnavi Peri
+C Akshatha Shivani,
+Kruthika,
+Sarojini Vaishnavi Peri,
 G Santosh Kumar
 
 Focus: PCOS Risk Analysis and Early Detection using AI
