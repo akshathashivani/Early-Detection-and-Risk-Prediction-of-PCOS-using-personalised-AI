@@ -74,16 +74,23 @@ This project implements an AI-powered Clinical Decision Support System for early
 ### Screenshots
 
 #### Home Page
+<img width="842" height="469" alt="Screenshot 2026-11-07 at 5 16 40 PM" src="https://github.com/user-attachments/assets/4f9620ea-9562-4ba2-b526-baf010eac3a6" />
 
-[Home Page](https://github.com/vaishnavi-peri24/7th-Semester-Project---Early-Detection-and-Risk-prediction-of-PCOS-using-FL/blob/main/pcos_ai_health_assistant.png) ([image](https://github.com/vaishnavi-peri24/7th-Semester-Project---Early-Detection-and-Risk-prediction-of-PCOS-using-FL/raw/main/pcos_ai_health_assistant.png)) *Overview of PCOS information and project objectives*
+
+ *Overview of PCOS information and project objectives*
 
 #### Prediction Page
 
-[Prediction Page](https://github.com/vaishnavi-peri24/7th-Semester-Project---Early-Detection-and-Risk-prediction-of-PCOS-using-FL/blob/main/Prediction_Page.png) ([image](https://github.com/vaishnavi-peri24/7th-Semester-Project---Early-Detection-and-Risk-prediction-of-PCOS-using-FL/raw/main/Prediction_Page.png)) *Interactive form for PCOS risk assessment with input fields*
+<img width="809" height="459" alt="Screenshot 2026-11-07 at 5 18 28 PM" src="https://github.com/user-attachments/assets/dd5ecaf4-b172-4699-a23b-50bdfb4d1ecc" />
+
+ *Interactive form for PCOS risk assessment with input fields*
 
 #### Explainability Results
 
-[Explainability Page](https://github.com/vaishnavi-peri24/7th-Semester-Project---Early-Detection-and-Risk-prediction-of-PCOS-using-FL/blob/main/Explainability_page.png) ([image](https://github.com/vaishnavi-peri24/7th-Semester-Project---Early-Detection-and-Risk-prediction-of-PCOS-using-FL/raw/main/Explainability_page.png)) *LIME-based explanation showing feature contributions to the prediction*
+<img width="866" height="538" alt="Screenshot 2026-11-07 at 5 19 27 PM" src="https://github.com/user-attachments/assets/12403ae2-464b-400b-a9ef-1441ce620592" />
+
+
+*LIME-based explanation showing feature contributions to the prediction*
 
 ## 📁 Project Structure
 
