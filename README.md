@@ -53,26 +53,18 @@ Home Page
 
 
 Prediction Page
+
+
+
 <img width="873" height="505" alt="Screenshot 2026-11-07 at 5 07 24 PM" src="https://github.com/user-attachments/assets/c45730e9-c760-4ca4-ac79-6ae9804b9a6d" />
 
 
 Explainability Results
 
+
+
 <img width="879" height="585" alt="Screenshot 2026-11-07 at 5 08 05 PM" src="https://github.com/user-attachments/assets/55a2e5c2-500b-45db-b340-6ea089d291da" />
 
-
-📁 Project Structure
-├── app.py                 # Main Streamlit application
-├── model_loader.py        # Model loading utilities
-├── preprocessing.py       # Data preprocessing functions
-├── prediction.py          # Prediction logic
-├── explainability.py      # LIME explanation generation
-├── Methodology.ipynb      # Detailed methodology and model development
-├── requirements.txt       # Python dependencies
-├── artifacts/             # Trained model and scaler files
-├── PCOS_data_without_infertility.csv  # Training dataset
-├── Real_Time_Testing.csv  # Testing dataset
-└── pcos_env/              # Virtual environment
 
 
 📈 Methodology
